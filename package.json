@@ -1,0 +1,18 @@
+{
+  "name": "basic-v1",
+  "version": "1.0.0",
+  "description": "webpack learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack-dev-server "
+  },
+  "author": "Amyth",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
